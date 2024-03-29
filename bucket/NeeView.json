@@ -1,0 +1,35 @@
+{
+    "version": "40.7",
+    "homepage": "https://bitbucket.org/neelabo/neeview/",
+    "description": "An image viewer that allows you to browse images in a folder like a book.",
+    "license": "Unknown",
+    "architecture": {
+        "64bit": {
+            "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView40.7.zip",
+            "hash": "6cfea80d831b5440f5e439ec72a7dba2e9915e6d400779591b0ce6de111170b6",
+            "extract_dir": "NeeView40.7-x64"
+        }
+    },
+    "bin": "NeeView.exe",
+    "shortcuts": [
+        [
+            "NeeView.exe",
+            "NeeView"
+        ]
+    ],
+    "persist": [
+        "Profile"
+    ],
+    "checkver": {
+        "url": "https://bitbucket.org/neelabo/neeview/wiki/ChangeLog",
+        "regex": "<h2 [^>]+>([\\d.]+)</h2>"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://bitbucket.org/neelabo/neeview/downloads/NeeView$version.zip",
+                "extract_dir": "NeeView$version-x64"
+            }
+        }
+    }
+}
