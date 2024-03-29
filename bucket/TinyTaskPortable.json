@@ -1,5 +1,5 @@
 {
-    "#":"参考URL https://github.com/p8rdev/scoop-portableapps/tree/master/bucket",
+    "##":"参考URL https://github.com/p8rdev/scoop-portableapps/tree/master/bucket",
     "homepage": "https://portableapps.com/apps/utilities/tinytask_portable",
     "description": "Simple macro record/playback",
     "version": "1.77",
