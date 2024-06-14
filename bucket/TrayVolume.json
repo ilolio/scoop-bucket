@@ -15,7 +15,7 @@
     ],
     "checkver": {
         "url": "http://shirosai.web.fc2.com/trayvolume/",
-        "regex": "ver\.\d+\.\d+\.\d+"
+        "regex": "ver\\.\\d+\\.\\d+\\.\\d+"
     },
     "autoupdate": {
         "url": "http://hp.vector.co.jp/authors/VA040722/download/TrayVolume.zip"
