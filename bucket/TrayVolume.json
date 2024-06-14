@@ -10,6 +10,9 @@
             "TrayVolume"
         ]
     ],
+    "pre_install": [
+        "New-Item -Path $dir\\TrayVolume.ini -ItemType File"
+    ],
     "persist": [
         "TrayVolume.ini"
     ],
