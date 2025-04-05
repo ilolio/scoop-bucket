@@ -1,10 +1,10 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "CrystalMark Retro is a comprehensive benchmarking software that supports 32bit(x86), 64bit (x64/ARM64), many-core, and multilingual (48+ languages).",
     "homepage": "https://crystalmark.info/ja/software/crystalmarkretro/",
     "license": "MIT",
-    "url": "https://sourceforge.net/projects/crystalmarkretro/files/2.0.1/CrystalMarkRetro2_0_1.zip",
-    "hash": "sha1:2aa250fd68c611141a8544a2a6370a3dffc93b17",
+    "url": "https://sourceforge.net/projects/crystalmarkretro/files/2.0.2/CrystalMarkRetro2_0_2.zip",
+    "hash": "sha1:2e63812593f492362a24635e9352cb38cf8f83fd",
     "architecture": {
         "64bit": {
             "bin": [
