@@ -25,8 +25,6 @@
 * Extended GodMode
   * 「GodMode」に検索機能を追加し、設定項目を開きやすくするソフトウェア
   * 古いバージョンのダウンロード不可
-* QuickSoundSwitcher
-  * システムトレイからオーディオ設定を一括管理するソフトウェア
 
 ## 削除済みアプリ
 
@@ -36,3 +34,5 @@
   * Windows11デフォルトで同じことができるようになったので削除
 * TinyTaskPortable
   * Extras bucketの非potable版でも問題なさげなので削除
+* QuickSoundSwitcher
+  * 個人的に使用頻度が減り、確認が難しくなったので削除
