@@ -25,6 +25,8 @@
 * Extended GodMode
   * 「GodMode」に検索機能を追加し、設定項目を開きやすくするソフトウェア
   * 古いバージョンのダウンロード不可
+* slimevr-wrangler
+  * SlimeVRトラッカーとしてJoyconを使用できるツール
 
 ## 削除済みアプリ
 
