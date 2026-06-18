@@ -27,6 +27,11 @@
   * 古いバージョンのダウンロード不可
 * slimevr-wrangler
   * SlimeVRトラッカーとしてJoyconを使用できるツール
+* llama-swap
+  * llama.cppやvllmでのモデルスワッピング補助ツール
+* InstallerClean-portable
+  * Windowsの不要なインストーラーを削除してくれるソフト
+  * （作者本人がbucket公開しているのでそちらから導入を推奨）
 
 ## 削除済みアプリ
 
