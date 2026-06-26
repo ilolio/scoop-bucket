@@ -35,6 +35,8 @@
 
 ## 削除済みアプリ
 
+* llama-swap
+  * main bucketに追加されたため削除
 * NeeView
   * Extras bucketに追加されたため削除
 * TrayVolume
